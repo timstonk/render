@@ -228,15 +228,18 @@ https://webudi.openhd.lol/ddy1/premium46/tracks-v1a1/mono.m3u8?|referer=https://
 
 #EXTINF:-1 xui-id="89117" tvg-id="" tvg-name="" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG-1536x570.png" group-title="Sports",ESPN
 ##http://189.91.128.146:4444/udp/227.10.20.81:1234
-http://181.78.64.71:8000/play/CH16
+##http://181.78.64.71:8000/play/CH16
+https://ge1.livechymde.xyz/hls1/ukpremiersports1/livehd/ukpremiersports1_720/chunks.m3u8?|referer=https://aesport.tv/
 
 #EXTINF:-1 xui-id="89118" tvg-id="" tvg-name="" tvg-logo="https://www.nicepng.com/png/detail/17-179743_espn-2-logo-espn.png" group-title="Sports",ESPN 2
 ##http://189.91.128.146:4444/udp/227.10.20.128:1234
-http://181.78.64.71:8000/play/CH17
+##http://181.78.64.71:8000/play/CH17
+https://ge1.livechymde.xyz/hls1/ukpremiersports2/livehd/ukpremiersports2_720/chunks.m3u8?|referer=https://aesport.tv/
 
 #EXTINF:-1 xui-id="89119" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sports",ESPN 3
 ##http://189.91.128.146:4444/udp/227.10.20.153:1234
-http://181.78.64.71:8000/play/CH19
+##http://181.78.64.71:8000/play/CH19
+https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8?|referer=https://aesport.tv/
 
 #EXTINF:-1 xui-id="90269" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eurosport_1_UK.png" group-title="Sports",Eurosport 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
