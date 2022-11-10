@@ -168,7 +168,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
 
 #EXTINF:0 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
-http://31.172.87.51:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
+http://212.224.84.213:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="Sports",TRUE PREMIER FOOTBALL 1
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8?|referer=https://www.ilike-movie.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
@@ -201,30 +201,30 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&
 https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=56/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3
-##http://31.172.87.27:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy6/premium415/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=415/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy6/premium415/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=415/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",SuperSport 4
-##http://31.172.87.27:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy6/premium416/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=416/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy6/premium416/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=416/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports",SuperSport 5
-##http://31.172.87.27:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy6/premium420/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=420/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy6/premium420/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=420/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" tvg-id="EPG" group-title="Sports", Bein Sports English 1
 ##http://31.172.87.19:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-##http://31.172.87.45:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+http://212.224.84.213:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 ##https://ge1.livechymde.xyz/hls1/uk_beinsportsenglish1/livehd/uk_beinsportsenglish1_360/chunks.m3u8?|referer=https://aesport.tv/
-https://webudi.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=61/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+##https://webudi.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=61/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" tvg-id="EPG" group-title="Sports", Bein Sports English 2
-##http://31.172.87.45:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium90/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=90/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy1/premium90/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=90/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" tvg-id="EPG" group-title="Sports", Bein Sports English 3
-##http://31.172.87.45:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium46/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=46/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy1/premium46/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=46/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 xui-id="89117" tvg-id="" tvg-name="" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG-1536x570.png" group-title="Sports",ESPN
 ##http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -251,16 +251,16 @@ https://ge1.livechymde.xyz/hls1/uk_skysportsepl/livehd/uk_skysportsepl_720/chunk
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-##http://31.172.87.45:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-##http://31.172.87.45:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-##http://31.172.87.45:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
@@ -268,8 +268,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League
-##http://31.172.87.20:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy6/premium414/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=414/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://212.224.84.213:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##https://webudi.openhd.lol/ddy6/premium414/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=414/?User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6550.1489223922.png" group-title="Sports",Fox Sport 507
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141758.m3u8
