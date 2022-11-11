@@ -35,8 +35,8 @@ http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdsJRwX8bGMPLdtX5mYwRB8MGIH1i6S-NLbT88qmS23LcKqnPzeTGD6jDSsn7XaIg8.png" group-title="Lokal HD",SCTV
-http://210.210.155.37:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-##https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
+##http://210.210.155.37:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
