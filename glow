@@ -179,21 +179,25 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?|referer=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png" group-title="Sports",Eleven Sport 1
 ##https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+##http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
 ##http://red.ipfox.org:8080/osama2022/osama2023/49368
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png" group-title="Sports",Eleven Sport 2
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+##http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+https://ge6.livechymde.xyz/pt_elevensport3/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/
 ##http://red.ipfox.org:8080/osama2022/osama2023/49367
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/2ls4291601118186.png" group-title="Sports",Eleven Sport 3
 ##http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+##http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+https://ptstream.livechymde.xyz/hls/elevensport2/livehd/elevensport2_level1/chunks.m3u8?|referer=https://aesport.tv/
 ##http://red.ipfox.org:8080/osama2022/osama2023/49366
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vdwr2e1601129826.png" group-title="Sports",Eleven Sport 4
 ##http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+##http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+https://ptstream.livechymde.xyz/hls/elevensport1/livehd/elevensport1_level1/chunks.m3u8?|referer=https://aesport.tv/
 ##http://red.ipfox.org:8080/osama2022/osama2023/49365
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2
