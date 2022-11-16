@@ -202,7 +202,8 @@ https://ptstream.livechymde.xyz/hls/elevensport1/livehd/elevensport1_level1/chun
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2
-http://212.224.84.213:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##http://212.224.84.213:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+https://us4.livechymde.xyz/za_supersportfootball/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 ##https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=56/&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2 BACK UP
@@ -211,7 +212,8 @@ https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3
-http://212.224.84.210:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##http://212.224.84.210:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+https://us4.livechymde.xyz/za_supersportlaliga/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 ##https://webudi.openhd.lol/ddy6/premium415/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=415/&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3 BACK UP
@@ -317,7 +319,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League
-http://212.224.84.210:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+##http://212.224.84.210:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+https://us4.livechymde.xyz/za_supersportpremierleague/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 ##https://webudi.openhd.lol/ddy6/premium414/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=414/&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League BACK UP
