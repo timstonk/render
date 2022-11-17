@@ -134,11 +134,11 @@ https://live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/97/Soccer_Channel.png" group-title="Sports", Utama Soccer Channel
 https://live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Sports", Usee Sports 1
-http://iptvid.my.id/hmm/useetl1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/CCTV-5.png/revision/latest/scale-to-width-down/200?cb=20220109105231" group-title="Sports", CCTV5 World cup
+https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Sports" , Usee Sports 2
-http://iptvid.my.id/hmm/useetl2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104121&path-prefix=vi" group-title="Sports" , CCTV5+ World cup
+https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
