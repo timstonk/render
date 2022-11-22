@@ -101,8 +101,8 @@ https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4Sdj1Y5/rcti-fix.png" group-title="Lokal HD",RCTI
-##https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-https://d1p83s84hrxz1t.cloudfront.net/RCTI2022-avc1_7000000=7-mp4a_96000=2.m3u8?|Referer=https://m.rctiplus.com/
+https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+##https://d1p83s84hrxz1t.cloudfront.net/RCTI2022-avc1_7000000=7-mp4a_96000=2.m3u8?|Referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
