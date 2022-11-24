@@ -59,7 +59,7 @@ https://myiptv.livetvuhd.com:2096/live/SPUSRbb87TT7hg7Tm5d/SPPASSdh6tegTyTr6Tg81
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", ITV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://ovocloud.site/live/abr_s-1/playlist.m3u8
+http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", SAKTI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
