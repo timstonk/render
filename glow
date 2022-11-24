@@ -4,9 +4,9 @@
 
 ##piala dunia#
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", TUDN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", 2DF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_1280x720.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
+https://s@s6.hopslan.com:443/zdfg11/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", VTV 5
@@ -57,11 +57,11 @@ http://89.216.39.24/cloud/stream/7254fbe9964a45deacc8a26d44a651c9/45/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://myiptv.livetvuhd.com:2096/live/SPUSRbb87TT7hg7Tm5d/SPPASSdh6tegTyTr6Tg81hVB739Hyd7YhdbJh8dh/13.m3u8?|Referer=https://livesportso.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", SAKTI 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", ITV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://4d39-112-215-154-252.ap.ngrok.io/vvip/vidio.php?id=9430
-https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd
+https://ovocloud.site/live/abr_s-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", SAKTI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
