@@ -23,7 +23,7 @@ https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8?|Referer=h
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", CCTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8?|Referer=https://olevod.tv/
+https://api.olelive.com/dis/live/CCTV5HD_1080/hls.m3u8?|Referer=https://olevod.tv/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", CCTV 5+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
