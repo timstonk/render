@@ -83,12 +83,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 
   
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream
-http://tvn.x10.mx/1/master-14.m3u8?dl=1
+##http://tvn.x10.mx/1/master-14.m3u8?dl=1
 ##http://tv.zonanime.my.id/vidio/championstv1.m3u8
 http://kunyak.my.id/mikirnya_pake_otak_asupan_otak_butuh_duit_buat_mikir_boss/useetl1.m3u8
   
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream 02
-http://tvn.x10.mx/1/master-15.m3u8?dl=1
+##http://tvn.x10.mx/1/master-15.m3u8?dl=1
 ##http://tv.zonanime.my.id/vidio/championstv2.m3u8
 http://kunyak.my.id/mikirnya_pake_otak_asupan_otak_butuh_duit_buat_mikir_boss/useetl2.m3u8
 
