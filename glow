@@ -297,7 +297,7 @@ https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3
 ##http://212.224.84.210:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://us4.livechymde.xyz/za_supersportlaliga/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://us4.livechymde.xyz/za_supersportlaliga/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 ##https://webudi.openhd.lol/ddy6/premium415/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=415/&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3 BACK UP
@@ -326,7 +326,7 @@ https://webudi.openhd.lol/ddy6/premium420/tracks-v1a1/mono.m3u8?|referer=https:/
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" tvg-id="EPG" group-title="Sports", Bein Sports English 1
 ##http://31.172.87.19:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 ##http://212.224.84.210:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-https://ge1.livechymde.xyz/uk_beinsportsenglish1/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/
+https://ge1.livechymde.xyz/uk_beinsportsenglish1/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 ##https://webudi.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=61/&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" tvg-id="EPG" group-title="Sports", Bein Sports English 1 BACK UP
