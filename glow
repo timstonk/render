@@ -375,31 +375,21 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 ##https://ge1.livechymde.xyz/hls1/uk_skysportsepl/livehd/uk_skysportsepl_720/chunks.m3u8?|referer=https://aesport.tv/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0  
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
 ##http://212.224.84.210:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-http://198.16.64.10:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
+https://ge2.livechymde.xyz/uk_btsport1/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
 ##https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1 BACK UP
-##http://212.224.84.210:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+https://ge2.livechymde.xyz/uk_btsport2/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
 ##http://212.224.84.210:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 ##https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2 BACK UP
-##http://212.224.84.210:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-http://212.224.84.210:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+https://ge2.livechymde.xyz/uk_btsport3/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
 ##https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3 BACK UP
-##http://212.224.84.210:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
