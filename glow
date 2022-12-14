@@ -56,8 +56,7 @@ http://51.79.82.208:16461
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", SBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
-
+https://hypera-sin-nimble.edge.serverkece.net/stream/sbs/stream/sbs_hq/chunks.m3u8?|Referer=https://hypera.live/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="PIALA DUNIA 2022", TUDN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
