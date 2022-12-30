@@ -289,7 +289,7 @@ https://ptstream.livechymde.xyz/hls/elevensport1/livehd/elevensport1_level1/chun
 https://us4.livechymde.xyz/za_supersportfootball/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 ##https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=56/&e=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2 BACK UP
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2 BACK UP
 ##http://212.224.84.213:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=56/&e=.m3u8
 
