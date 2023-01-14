@@ -372,22 +372,23 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
 ##https://ge1.livechymde.xyz/hls1/uk_skysportsepl/livehd/uk_skysportsepl_720/chunks.m3u8?|referer=https://aesport.tv/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0  
-https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
+https://no2.webtv1.lol/ddy1/premium123/index.m3u8?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=123&e=.m3u8
+##https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
 ##http://212.224.84.210:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 ##https://ge2.livechymde.xyz/uk_btsport1/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
-https://no2.webtv1.lol/ddy1/premium31/index.m3u8?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=31&e=.m3u8
+https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/11.m3u8?|referer=https://sturls.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-https://ge2.livechymde.xyz/uk_btsport2/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
+##https://ge2.livechymde.xyz/uk_btsport2/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
 ##http://212.224.84.210:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-##https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
+https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/12.m3u8?|referer=https://sturls.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-https://ge2.livechymde.xyz/uk_btsport3/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
-##https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
+##https://ge2.livechymde.xyz/uk_btsport3/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
+https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/13.m3u8?|referer=https://sturls.com/
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
