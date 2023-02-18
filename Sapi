@@ -240,32 +240,32 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 1 DE
+##EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN2Germany.de" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 2 DE
+##EXTINF:-1 tvg-id="DAZN2Germany.de" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 2 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
   
-#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 1 España
+##EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 1 España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 2 España
+##EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN 2 España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN La Liga
+##EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZNF1.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN F1
+##EXTINF:-1 tvg-id="DAZNF1.es" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png" group-title="Sports",DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
@@ -282,7 +282,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
 
 #EXTINF:0 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
-http://212.224.84.213:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
+##http://212.224.84.213:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
+http://ku3.worldtvip.co:80/uk_sky_sports_f1_hd/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="Sports",TRUE PREMIER FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -317,20 +318,22 @@ https://ptstream.livechymde.xyz/hls/elevensport1/livehd/elevensport1_level1/chun
 ##http://red.ipfox.org:8080/osama2022/osama2023/49365
 
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2
 ##http://212.224.84.213:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://us4.livechymde.xyz/za_supersportfootball/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+##https://us4.livechymde.xyz/za_supersportfootball/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 ##https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=56/&e=.m3u8
+http://pakin2.worldtvip.co:9090/za_ss_football/tracks-v1a1/mono.m3u8
 
 ##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2 BACK UP
 ##http://212.224.84.213:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 https://webudi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=56/&e=.m3u8
 
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3
 ##http://212.224.84.210:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://us4.livechymde.xyz/za_supersportlaliga/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+##https://us4.livechymde.xyz/za_supersportlaliga/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 ##https://webudi.openhd.lol/ddy6/premium415/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=415/&e=.m3u8
+http://pakin2.worldtvip.co:9090/za_ss_laliga/tracks-v1a1/mono.m3u8
 
 ##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3 BACK UP
 ##http://212.224.84.210:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
@@ -403,35 +406,38 @@ https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 
-##EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
+#EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
 ##https://ge1.livechymde.xyz/hls1/uk_skysportsepl/livehd/uk_skysportsepl_720/chunks.m3u8?|referer=https://aesport.tv/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0  
-https://no2.webtv1.lol/ddy1/premium123/index.m3u8?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=123&e=.m3u8
+##https://no2.webtv1.lol/ddy1/premium123/index.m3u8?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=123&e=.m3u8
 ##https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|referer=https://global1.ru.com/&e=.m3u8
-
+http://ku3.worldtvip.co:80/uk_sky_sports_premier_league_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
 ##http://212.224.84.210:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 ##https://ge2.livechymde.xyz/uk_btsport1/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
-https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/11.m3u8?|referer=https://sturls.com/
+##https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/11.m3u8?|referer=https://sturls.com/
+http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
 ##https://ge2.livechymde.xyz/uk_btsport2/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
 ##http://212.224.84.210:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/12.m3u8?|referer=https://sturls.com/
+##https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/12.m3u8?|referer=https://sturls.com/
+http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
 ##https://ge2.livechymde.xyz/uk_btsport3/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 
-https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/13.m3u8?|referer=https://sturls.com/
-
+##https://play.sturls.com/live/QJokYvoCYp/uZXpGcU4sb/13.m3u8?|referer=https://sturls.com/
+http://ku3.worldtvip.co/uk_bt_sports_3_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
-##EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League
+EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League
 ##http://212.224.84.210:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-https://us4.livechymde.xyz/za_supersportpremierleague/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+##https://us4.livechymde.xyz/za_supersportpremierleague/tracks-v1a1/mono.m3u8?|referer=https://aesport.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 ##https://webudi.openhd.lol/ddy6/premium414/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/premiumtv/livetvon.php?id=414/&e=.m3u8
+http://pakin2.worldtvip.co:9090/za_ss_pleague/index.m3u8
 
 ##EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League BACK UP
 ##http://212.224.84.210:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
