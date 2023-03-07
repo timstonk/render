@@ -16,6 +16,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd|User-
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PXuuBG.png", Dazn La Liga Es
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
