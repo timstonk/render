@@ -89,7 +89,7 @@ https://hls3.04lv.com/live/L12498520.m3u8?txSecret=c211f4f38e340f0b4e040006120e9
 ##EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream 02
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream 03
+##EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream 03
 2-vidio-com.akamaized.net/exp=1674048178~acl=/vp9/9310_stream.mpd!/vp9/9310/*!/vp9/*/9310_stream.mpd!/vp9/*/9310/*~hmac=0a288335bbd4e374e827812801e50ac07fcdc42abfaa8364ea403ce386c471b4/vp9/9310_stream.mpd
 ##http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
@@ -102,11 +102,13 @@ https://akm611a-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal HD",Indosiar 
 ##https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-http://210.210.155.35/qwr9ew/s/s04/index.m3u8
+##http://210.210.155.35/qwr9ew/s/s04/index.m3u8
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="Lokal HD",Sctv
 ##https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+##http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
