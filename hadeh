@@ -288,7 +288,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Nasional",Indosi 
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-/// HBO /////
+/// HBO //
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" tvg-id="HBO.id" tvg-name="HOO" group-title="Film",HBO
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
